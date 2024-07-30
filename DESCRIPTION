@@ -4,7 +4,8 @@ Version: 0.0.0.9000
 Author: Chris Brauer
 Maintainer: Chris Brauer <chris.brauer@flinders.edu.au>
 Description: Utilities for maintaining a PostgreSQL database in R
-License: MIT + file LICENSEEncoding: UTF-8
+License: MIT + file LICENSE
+Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Imports:
